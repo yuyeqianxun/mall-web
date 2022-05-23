@@ -16,7 +16,7 @@
     "antd": "^4.6.6",
     "antd-dayjs-webpack-plugin": "^1.0.1",
     "craco-less": "^1.17.0",
-    "dexie": "^3.0.2",
+    "dexie": "^3.2.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-config": "^5.1.1",
